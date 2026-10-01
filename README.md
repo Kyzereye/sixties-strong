@@ -46,3 +46,4 @@ Claude records it in the right file, estimates the calories, protein, fiber, and
 - [ ] Session A at the gym on Fri Oct 2
 - [ ] Go grocery shopping using the list in the nutrition plan, and cook one slow-cooker recipe this weekend
 - [ ] Add your blood work results when you have them
+# sixties-strong
