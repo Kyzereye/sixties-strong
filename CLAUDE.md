@@ -1,14 +1,14 @@
 # Fitness project: instructions for Claude
 
-This folder holds John's personal fitness and nutrition plan and his logs. John is 59½, about 180 lb, with somewhat high cholesterol. His goal is to get leaner and more muscular. Read `README.md` for an overview.
+This folder holds Jeff's personal fitness and nutrition plan and his logs. Jeff is 59½, about 180 lb, with somewhat high cholesterol. His goal is to get leaner and more muscular. Read `README.md` for an overview.
 
-## How John wants things written
+## How Jeff wants things written
 
 Write complete, readable sentences and well-explained detail, the way a coach writes for a client. Never use choppy fragments. When he asks for plans, workouts, or recipes, include practical detail (portions, form cues, the reasons behind the advice).
 
 ## Logging conventions
 
-When John reports what he did or ate, record it without asking him to format anything:
+When Jeff reports what he did or ate, record it without asking him to format anything:
 
 - **Workouts** → append to `logs/workouts.csv`, one row per exercise: `date,session,exercise,weight_lb,set1_reps,set2_reps,set3_reps,set4_reps,notes`. Session is A, B, or Express. Use ISO dates. Leave set4 empty unless he did a 4th set.
 - **Rides, walks, pickleball, yoga** → append to `logs/activity.csv`.

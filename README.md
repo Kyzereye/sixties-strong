@@ -1,4 +1,4 @@
-# John's Fitness and Nutrition Plan
+# Jeff's Fitness and Nutrition Plan
 
 **Started:** October 1, 2026
 **Starting point:** age 59½, 5'9" (69 in), about 180 lb, cholesterol somewhat high, lifting about once every 10 days
