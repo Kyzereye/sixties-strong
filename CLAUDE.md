@@ -26,4 +26,4 @@ When asked, summarize the week from the logs and add the review to the top of `l
 - He burned out on daily yoga. Keep yoga at about 2 short sessions a week unless he asks for more.
 - Beer and ice cream stay in the plan, portioned. He is cutting soda and, through that, fast food. Support this.
 - Blood work goes in `plan/blood-work.md`. When it arrives, revisit the saturated fat, egg, fiber, and alcohol guidance in `plan/nutrition.md`.
-- Gym schedule: every 3 days, alternating A/B, starting Fri 2026-10-02 (A). The mountain bike ride goes on the day before a gym day, and **only on weekdays**: no weekend mountain bike rides, because the trails and parking lots are crowded. The 11-mile road ride is fine on weekends.
+- Gym schedule: every 3 days, alternating A/B, starting Fri 2026-10-02 (A). The mountain bike ride goes on the day before a gym day, and **only on weekdays**: no weekend mountain bike rides, because the trails and parking lots are crowded. The Lafayette loop road ride is fine on weekends. "Lafayette loop" covers a few road routes of different lengths, so log the miles each time (for example, "I did the Lafayette loop, 14 miles").

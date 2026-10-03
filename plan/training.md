@@ -46,18 +46,18 @@ Because a 3-day cycle doesn't line up with a 7-day week, your gym days move arou
 | Thu Oct 1 | Today | Set up. Optional 2-mile walk. Weigh yourself tomorrow morning. |
 | **Fri Oct 2** | **Gym** | **Session A** (calibration session; see Section 3) |
 | Sat Oct 3 | Off | Pickleball, or Yoga Flow 2 if no game |
-| Sun Oct 4 | Off | 11-mile road ride, or Yoga Flow 1 + 2-mile walk |
+| Sun Oct 4 | Off | Lafayette loop, or Yoga Flow 1 + 2-mile walk |
 | **Mon Oct 5** | **Gym** | **Session B** (calibration session for the B exercises) |
-| Tue Oct 6 | Off | Pickleball, or 11-mile road ride |
+| Tue Oct 6 | Off | Pickleball, or Lafayette loop |
 | Wed Oct 7 | Off | **Mountain bike ride** |
 | **Thu Oct 8** | **Gym** | **Session A** (lighten the legs if the ride beat you up) |
 | Fri Oct 9 | Off | Yoga Flow 1 (hips and hamstrings, good after the ride) + 2-mile walk |
-| Sat Oct 10 | Off | Pickleball, or 11-mile road ride |
+| Sat Oct 10 | Off | Pickleball, or Lafayette loop |
 | **Sun Oct 11** | **Gym** | **Session B** |
 | Mon Oct 12 | Off | Yoga Flow 2 + 2-mile walk |
 | Tue Oct 13 | Off | **Mountain bike ride** |
 | **Wed Oct 14** | **Gym** | **Session A** (lighten the legs if needed) |
-| Thu Oct 15 | Off | Pickleball, or 11-mile road ride |
+| Thu Oct 15 | Off | Pickleball, or Lafayette loop |
 | Fri Oct 16 | Off | Yoga Flow 1 + 2-mile walk, or rest |
 | **Sat Oct 17** | **Gym** | **Session B** |
 
@@ -278,7 +278,7 @@ This flow builds the strength, balance, and back mobility that help you on the p
 
 **Pickleball (1–2 times a week, about 2 hours).** Two hours of pickleball is genuine interval training, with lots of quick starts, stops, and side-to-side movement. Warm up for 5 to 10 minutes first with brisk walking, side shuffles, and easy dinking. Wear court shoes with lateral support, not running shoes, which are built for forward motion and can let your ankle roll. If your knee feels tender on the court, a simple compression sleeve often helps.
 
-**Walks (2 miles) and road rides (11 miles).** These are easy "recovery cardio" days. Keep the pace comfortable enough to talk in full sentences. That easy effort is great for heart health and fat burning, and it doesn't take anything away from your lifting.
+**Walks (2 miles) and road rides (the Lafayette loop).** The Lafayette loop is a set of road routes of different lengths, the most common being about 11 miles. These are easy "recovery cardio" days. Keep the pace comfortable enough to talk in full sentences. That easy effort is great for heart health and fat burning, and it doesn't take anything away from your lifting.
 
 **Hiking:** your knee doesn't like hikes over 6 miles, so keep mountain hikes under that, or use trekking poles, which take a meaningful amount of load off the knees on downhills.
 
